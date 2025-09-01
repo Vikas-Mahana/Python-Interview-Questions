@@ -157,3 +157,28 @@ EX:           arr = [1, 2, 3, 4, 5, 6]
 	#get the second last element
 	print(arr[-2]) #output 5
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
