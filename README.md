@@ -1,3 +1,12 @@
+
+**🧰 Ideal For**
+
+🎓 Freshers preparing for their first Python interview.
+
+👨‍💻 Developers with 1–2 years of experience revising key concepts before interviews.
+
+📘 Students learning Python for placement preparation.
+
 **🎯 Purpose**
 
 To provide a concise, well-organized, and interview-focused Python preparation resource that helps you crack Python developer interviews with confidence.
