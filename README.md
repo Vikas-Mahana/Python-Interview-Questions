@@ -1,3 +1,7 @@
+**🎯 Purpose**
+
+To provide a concise, well-organized, and interview-focused Python preparation resource that helps you crack Python developer interviews with confidence.
+
 **🎯 Python Interview Questions**
 
 # P1. What is Python? What are the benefits of using Python?
